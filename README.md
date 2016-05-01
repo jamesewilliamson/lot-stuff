@@ -20,4 +20,4 @@ dont forget the node-red flow there is an example of big timer http://flows.node
 http://tech.scargill.net/big-timer/
 
 
-added pulse timer flow for node-red
+added alternating pulse Big timer
