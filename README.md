@@ -1,5 +1,5 @@
 # lot-stuff
-I am using node-red and Mosquitto MQTT broker on a Raspberry pi B
+I am using node-red and Mosquitto MQTT broker on a Raspberry pi B jessie
 
 it also is running PI-Hole :) 
 
