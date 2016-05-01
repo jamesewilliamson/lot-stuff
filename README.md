@@ -9,4 +9,4 @@ topics "A" "B" "C" "D" are relay's 1 on 0 off
 "outTopictemp"=temp
 "outTopic"=Relay Board OK
 
-dont forget the node-red flow
+dont forget the node-red flow there is an example of big timer http://flows.nodered.org/node/node-red-contrib-bigtimer
