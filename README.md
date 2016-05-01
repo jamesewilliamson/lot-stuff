@@ -12,3 +12,6 @@ topics "A" "B" "C" "D" are relay's 1 on 0 off
 
 dont forget the node-red flow there is an example of big timer http://flows.nodered.org/node/node-red-contrib-bigtimer
 http://tech.scargill.net/big-timer/
+
+
+added pulse timer flow for node-red
