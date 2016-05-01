@@ -8,4 +8,5 @@ https://github.com/esp8266/Arduino/blob/master/variants/nodemcu/pins_arduino.h#L
 topics"A" "B" "C" "D" are relay's 1 on 0 off
 "outTopictemp"=temp
 "outTopic"=Relay Board OK
+
 dont forget the node-red flow
