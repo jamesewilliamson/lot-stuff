@@ -7,8 +7,8 @@ if you need to change pins there will be comments telling you where..see link fo
 https://github.com/esp8266/Arduino/blob/master/variants/nodemcu/pins_arduino.h#L37-L59
 
 topics "A" "B" "C" "D" are relay's 1 on 0 off
-"outTopictemp"=temp
-"outTopic"=Relay Board OK
+"outTopictemp"= temp
+"outTopic"= Relay Board OK
 
 dont forget the node-red flow there is an example of big timer http://flows.nodered.org/node/node-red-contrib-bigtimer
 http://tech.scargill.net/big-timer/
