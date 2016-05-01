@@ -1,4 +1,8 @@
 # lot-stuff
+I am using node-red and Mosquitto MQTT broker on a Raspberry pi B
+it also is running PI-Hole :) 
+https://pi-hole.net/
+
 
 The first thing is a 4 way switch with a temp senser
 its a copy paste from examples so no credits for me.. 
