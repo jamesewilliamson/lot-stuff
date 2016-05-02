@@ -12,7 +12,6 @@ this use's an nodemcu 0.9 and Arduino ide to load files, other esp 8266 should w
 if you need to change pins there will be comments telling you where..see link for Pin definition functions for Arduino to esp.
 https://github.com/esp8266/Arduino/blob/master/variants/nodemcu/pins_arduino.h#L37-L59
 
-![img_20141219_100954](https://cloud.githubusercontent.com/assets/8534154/14953189/151ec5f2-1035-11e6-80ff-f8b50e4e0489.jpg)
 
 topics "A" "B" "C" "D" are relay's 1 on 0 off
 "outTopictemp"= temp
