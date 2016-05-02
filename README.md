@@ -12,7 +12,7 @@ this use's an nodemcu 0.9 and Arduino ide to load files, other esp 8266 should w
 if you need to change pins there will be comments telling you where..see link for Pin definition functions for Arduino to esp.
 https://github.com/esp8266/Arduino/blob/master/variants/nodemcu/pins_arduino.h#L37-L59 
 
-mock up not ready for use
+mock up not ready for use needs capacitor's fuse's ect
 ![img_20160502_063255](https://cloud.githubusercontent.com/assets/8534154/14953192/1c13fd64-1035-11e6-9e7e-2196b49ab68b.jpg)
 
 topics "A" "B" "C" "D" are relay's 1 on 0 off
