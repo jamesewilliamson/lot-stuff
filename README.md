@@ -28,3 +28,5 @@ opto triac mock up not ready for use.. needs capacitor's fuse's ect
 ![img_20160502_063255](https://cloud.githubusercontent.com/assets/8534154/14953192/1c13fd64-1035-11e6-9e7e-2196b49ab68b.jpg)
 old wired 4way
 (https://cloud.githubusercontent.com/assets/8534154/14953486/024bddfe-1038-11e6-9feb-65381764b2d3.jpg)
+
+(https://cloud.githubusercontent.com/assets/8534154/14953477/e97fd500-1037-11e6-8e64-582247fb17d5.jpg)
