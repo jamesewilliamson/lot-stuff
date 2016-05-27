@@ -138,7 +138,9 @@ void loop() {
     ++value;
     DS18B20.requestTemperatures();
     temp = DS18B20.getTempCByIndex(0); 
-     
+    
+    //temp = (temp * 9.0)/ 5.0 + 32.0;        // uncoment for tem F
+    
     String(temp).toCharArray(tempStr, 2);
     
     String(temp).toCharArray(tempStr, 5);
