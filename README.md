@@ -26,7 +26,7 @@ added alternating pulse Big timer
 
 opto triac mock up not ready for use.. needs capacitor's fuse's ect
 
-'update i ended up useing the old relays with transistors
+"update i ended up useing the old relays with transistors
 to up the 3v to 5v control signal. working good so far..."
 ![img_20160502_063255](https://cloud.githubusercontent.com/assets/8534154/14953192/1c13fd64-1035-11e6-9e7e-2196b49ab68b.jpg)
 old wired 4way
