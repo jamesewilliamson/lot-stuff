@@ -28,6 +28,8 @@ opto triac mock up not ready for use.. needs capacitor's fuse's ect
 
 "update i ended up useing the old relays with transistors
 to up the 3v to 5v control signal. working good so far..."
+
+
 ![img_20160502_063255](https://cloud.githubusercontent.com/assets/8534154/14953192/1c13fd64-1035-11e6-9e7e-2196b49ab68b.jpg)
 old wired 4way
 (https://cloud.githubusercontent.com/assets/8534154/14953486/024bddfe-1038-11e6-9feb-65381764b2d3.jpg)
